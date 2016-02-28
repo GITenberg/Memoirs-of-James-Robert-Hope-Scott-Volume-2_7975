@@ -1,0 +1,31 @@
+_repo: Memoirs-of-James-Robert-Hope-Scott-Volume-2_7975
+alternative_title: "Memoirs of James Robert Hope-Scott of Abbotsford, D.C.L., Q.C.\r\
+  \nLate Fellow of Merton College, Oxford, With Selections from His Correspondence.\
+  \ Volume 2"
+creator:
+  author:
+    agent_name: Ornsby, Robert
+    birthdate: 1820
+    deathdate: 1889
+    gutenberg_agent_id: '2607'
+    url: http://www.gutenberg.org/2009/agents/2607
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7975'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Abbotsford (Scotland) -- Biography'
+- !lcsh 'Lawyers -- Great Britain -- Biography'
+- !lcsh 'Hope-Scott, James Robert, 1812-1873'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century'
+- !lcsh 'Hope-Scott, James Robert, 1812-1873 -- Correspondence'
+- !lcsh 'Statesmen -- Great Britain -- Biography'
+- !lcc 'DA'
+title: Memoirs of James Robert Hope-Scott, Volume 2
+url: http://www.gutenberg.org/ebooks/7975
